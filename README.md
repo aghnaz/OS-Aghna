@@ -14,7 +14,7 @@ Apabila kita mengklik tambah, maka akan muncul seperti berikut
 Kita dapat mengisikannya seperti berikut lalu mengklik simpan 
 ![alt text](https://github.com/aghnaz/OS-Aghna/blob/master/tambahminum-fill.JPG)
 Setelah di klik simpan maka akan muncul notifikasi seperti berikut 
-![alt text](https://github.com/aghnaz/OS-Aghna/blob/master/sukses-tambahminum.JPG)
+![alt text](https://github.com/aghnaz/OS-Aghna/blob/master/sukses-tambah%20minum.JPG)
 Kita juga dapat mengeedit minuman seperti berikut. Klik ubah
 ![alt text](https://github.com/aghnaz/OS-Aghna/blob/master/editminum-1.JPG)
 Lalu ubah pada yang ingin diubah, disini saya mengubah dengan menambahkan stok dari 60 menjadi 100
@@ -33,15 +33,15 @@ Apabila kita ingin menambahkan dengan menklik tambah akan muncul seperti berikut
 kemudian dapat diisi kategori apa yang ingin kita tambahkan 
 ![alt text](https://github.com/aghnaz/OS-Aghna/blob/master/tambahkategori-fill.JPG)
 notifikasi jika kita berhasil menambahkan kategori
-![alt text](https://github.com/aghnaz/OS-Aghna/blob/master/sukses-tambah kategori.JPG)
+![alt text](https://github.com/aghnaz/OS-Aghna/blob/master/sukses-tambah%20kategori.JPG)
 Setelah kita mengklik edit, maka  akan muncul seperti berikut, kita mengubah sereal menjadi Cereal
 ![alt text](https://github.com/aghnaz/OS-Aghna/blob/master/before-edit.JPG)
 dan apabila kita sudah mengklik simpan maka akan muncul notifikasi seperti berikut dan yang kita ubah akan berubah. 
 ![alt text](https://github.com/aghnaz/OS-Aghna/blob/master/after-edit.JPG)
 Kita juga dapat menghapus kategori dengan mengklik hapus, setelahnya aka nada notifikasi untuk meyakinkan kita apakah kita menghapusnya atau tidak 
-![alt text](https://github.com/aghnaz/OS-Aghna/blob/master/delete-notification ktgr.JPG)
+![alt text](https://github.com/aghnaz/OS-Aghna/blob/master/delete-notification%20ktgr.JPG)
 apabila kita mengklik OK, maka akan muncul notifikasi dan berhasil menghapus.
-![alt text](https://github.com/aghnaz/OS-Aghna/blob/master/delete-sukses ktgr.JPG)
+![alt text](https://github.com/aghnaz/OS-Aghna/blob/master/delete-sukses%20ktgr.JPG)
 Setelah dari kategori terdapat pula history pemesanan yang menampilkan halaman seperti berikut 
 ![alt text](https://github.com/aghnaz/OS-Aghna/blob/master/history-pemesanan.JPG)
 Dan  apabila kita ingin melogout kita memencet gambar user di pojok kanan atas maka akan keluar dropdown dan klik logout 
