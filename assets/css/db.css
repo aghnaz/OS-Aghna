@@ -1,0 +1,7 @@
+.db{
+    background-image: url(../img/bg.jpg);
+    background-attachment: fixed;
+    background-size: 100%;
+    height: 400px;
+    
+}
