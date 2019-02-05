@@ -37,7 +37,7 @@ notifikasi jika kita berhasil menambahkan kategori
 Setelah kita mengklik edit, maka  akan muncul seperti berikut, kita mengubah sereal menjadi Cereal
 ![alt text](https://github.com/aghnaz/OS-Aghna/blob/master/before-edit.JPG)
 dan apabila kita sudah mengklik simpan maka akan muncul notifikasi seperti berikut dan yang kita ubah akan berubah. 
-![alt text](https://github.com/aghnaz/OS-Aghna/blob/master/after-edit.JPG)
+![alt text](https://github.com/aghnaz/OS-Aghna/blob/master/edit-kategorisukses.JPG)
 Kita juga dapat menghapus kategori dengan mengklik hapus, setelahnya aka nada notifikasi untuk meyakinkan kita apakah kita menghapusnya atau tidak 
 ![alt text](https://github.com/aghnaz/OS-Aghna/blob/master/delete-notification%20ktgr.JPG)
 apabila kita mengklik OK, maka akan muncul notifikasi dan berhasil menghapus.
